@@ -1,0 +1,11 @@
+streamlit
+boto3
+langchain
+langchain_aws
+python-dotenv
+requests
+geopy
+langgraph
+python-dotenv
+folium
+streamlit_folium
